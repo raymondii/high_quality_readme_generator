@@ -1,19 +1,26 @@
 # high_quality_readme_generator
-
-## Description
-    A command-line application that dynamically generates a professional README.md file from a user's input
+a command-line application that simplifies the process of creating a professional README.md file for your project. It uses the Inquirer package to interactively gather information from the user and generates a README file based on the provided inputs.
 
 ## Installation
-    clone repo and run node index.js in intergrated terminal
 
-## Usage
-    n/a
+Clone the repository to your local machine:
+git clone git@github.com:raymondii/high_quality_readme_generator.git
 
-## Contributing
-    n/a
+Navigate to the project directory:
+cd high_quality_readme_generator
 
-## Tests
-    n/a
+Install dependencies:
+npm install
+
+Run the application:
+node index.js
+
+Follow the prompts to enter information about your project
+
+Once you complete the prompts, the application will generate a README.md file in the yourREADMEfile folder
+
+## Walkthroug video
+https://drive.google.com/file/d/1R4NsE3JASv1zimUumAcM_1yPd6ZueKyw/view?usp=drive_link
 
 ## License
   
@@ -23,5 +30,3 @@
 
 ## Contact
     GitHub: [raymondii](https://github.com/raymondii)
-    Email: 
-  
